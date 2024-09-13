@@ -1,0 +1,61 @@
+body {
+    background-color: #1e2124;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    color: #7289da;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #7289da;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 22px;
+    color: white;
+}
+
+section {
+    margin: 20px;
+}
+
+hr {
+    border: 1px solid #fd2525;
+    margin: 20px 0;
+}
+
+b {
+    color: #7289da;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: square;
+    font-size: 18px;
+    margin-left: 40px;
+    color: #7289da;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
+}
+.curved-box {
+    background-color: #424549; 
+    padding: 20px;
+    border-radius: 30px; 
+    max-width: 1000px; 
+    margin: 20px auto; 
+}
